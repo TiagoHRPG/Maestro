@@ -1,9 +1,9 @@
-# Maestro
+# 🎧 Maestro
 Maestro is a project that enables you to control Spotify media player using hand gestures. You can currently pause, play and skip songs by doing hand gestures on your webcam
 ## Technologies
 I used **Python, Opencv, Mediapipe**
 
-## Setup
+## 🚀 Setup
 1. Download or clone the repository
 
 2. Change directory
@@ -27,7 +27,7 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
-## Usage
+## 👨‍🏫 Usage
 When the script is executed, a window will pop-up showing your webcam. To control yout media player, simply raise your hand and do some gestures.
 
 The gestures currently available are:
