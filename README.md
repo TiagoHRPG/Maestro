@@ -37,7 +37,7 @@ The gestures currently available are:
 ✌🏼: peace sign RIGHT hand -> next song 
 
 A gif below demonstrates the usage
-
+![](https://github.com/TiagoHRPG/Maestro/blob/main/imgs/maestro_demo_gif.gif)
 
 ## License
 MIT license
