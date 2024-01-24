@@ -31,12 +31,15 @@ python3 main.py
 When the script is executed, a window will pop-up showing your webcam. To control yout media player, simply raise your hand and do some gestures.
 
 The gestures currently available are:
-✋: raise LEFT hand       -> pause song
-✋: raise RIGHT hand      -> play song
-✌🏼: peace sign LEFT hand  -> previous song
-✌🏼: peace sign RIGHT hand -> next song 
+
+- ✋: raise LEFT hand       -> pause song
+- ✋: raise RIGHT hand      -> play song
+- ✌🏼: peace sign LEFT hand  -> previous song
+- ✌🏼: peace sign RIGHT hand -> next song 
 
 A gif below demonstrates the usage
+
+
 ![](https://github.com/TiagoHRPG/Maestro/blob/main/imgs/maestro_demo_gif.gif)
 
 ## License
